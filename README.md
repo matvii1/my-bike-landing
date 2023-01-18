@@ -10,8 +10,7 @@
 
 Fully responsive web page made accordingly to [the design](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 
-asdfasdf
-
-changes
+asdfas
+fasdfasf
 
 
